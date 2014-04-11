@@ -1,6 +1,6 @@
 # Installation quickstart
 
-[![Build Status](https://travis-ci.org/kerphi/phpfreechat.png?branch=master)](https://travis-ci.org/kerphi/phpfreechat)
+[![Build Status](https://travis-ci.org/piyushrajput/phpfreechat.png?branch=master)](https://travis-ci.org/piyushrajput/phpfreechat)
 
 ## Prerequisites
 
