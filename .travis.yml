@@ -17,5 +17,8 @@ before_script:
     - chmod 777 server/data/
     - curl http://127.0.0.1/check.php
     - curl http://127.0.0.1/server/status
+    
+before_install:
+  - php /home/travis/.phpenv/versions/5.3.27/bin/composer.phar self-update
 
 script: make test-server
