@@ -11,6 +11,7 @@
     * write access to the phpfreechat-2.1.1/server/data/ and phpfreechat-2.1.1/server/log/ folder (777 or write permission for the web server)
   * No database needed !
 
+
 ## Quick start
 
 Download [phpfreechat-2.1.1.zip](http://www.phpfreechat.net/download) and unzip it in the root folder of your Web server.
